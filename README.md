@@ -42,3 +42,5 @@ pip install pyqt5 pyserial
 ## Developer
 Sandie G
 
+This System still on the development phase
+
